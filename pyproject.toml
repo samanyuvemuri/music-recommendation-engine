@@ -1,0 +1,7 @@
+[project]
+name = "song-recommender"
+version = "0.1.0"
+description = "A machine learning project that recommends songs based on audio features, artist, and genre similarity using content-based filtering. Users can input a song they like and receive a list of similar songs from the dataset."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
