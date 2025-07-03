@@ -1,6 +1,6 @@
-# Song Recommendation System
+# Music Recommendation Engine
 
-This project is a machine learning-based song recommendation system that suggests similar songs based on audio features, artist, and genre using content-based filtering.
+This project is a machine learning-based song recommendation engine that suggests similar songs based on audio features, artist, and genre using content-based filtering.
 
 ## Features
 - Recommends songs similar to a user-selected track
